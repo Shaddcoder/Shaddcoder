@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shaddcoder
 - 👀 I’m interested in IoT, Embedded, and UX/Ui Designer
-- 🌱 I’m currently learning C++, Embedded, CSS, and Figma.
+- 🌱 I’m currently learning Embedded C, IC design, Verilog HDL Code.
 - 💞️ Currently I want to improve my skills and work as a fresher engineer.
 - 📫 How to reach me 0981121557, https://www.facebook.com/shadd1804/n
 - ⚡ Fun fact: an engineer but want to be a designer =)) troll troll VietNam
