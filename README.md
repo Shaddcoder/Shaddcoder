@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shaddcoder
-- 👀 I’m interested in IoT, Embedded, and UX/Ui Designer
+- 👀 I’m interested in IoT, Embedded, and RTL code 
 - 🌱 I’m currently learning Embedded C, IC design, and Verilog HDL Code.
 - 💞️ Currently I want to improve my skills and work as a fresher engineer.
 - 📫 How to reach me 0981121557, https://www.facebook.com/shadd1804/n
